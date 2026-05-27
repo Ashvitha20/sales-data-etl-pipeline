@@ -1,0 +1,5 @@
+order_id,date,customer,amount
+ORD1004,,John,-100.0
+ORD1013,,Ram,-250.0
+ORD1031,2025-11-02,Raj,-500.0
+,2025-05-03,Kishore,-120.0
